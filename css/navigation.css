@@ -38,18 +38,20 @@ h1 {
 
  /* Text */
 p {
-    color: #932432;
+    color: #3b3b3b;
     letter-spacing: 0.7px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
-    text-align: center; 
+    text-align:justify 
 }
+
 
 h3 {
     color: #932432;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 175%;
     text-decoration: underline;
+    text-shadow: 1px 1px #111;
 }
 
 
