@@ -36,6 +36,7 @@ h2 {
   margin-bottom: 20px;
   text-decoration: underline;
   text-align: center;
+  text-shadow: 1px 1px #111;
 }
 
 /* .joke-text */
@@ -44,6 +45,7 @@ h2 {
   margin-bottom: 30px;
   font-family: monospace;
   text-align: center;
+  color: #932432;
 }
 
 /* .new-joke-btn */
